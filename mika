@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "author": "mika",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "roadteam",
+      "author": "mika",
+      "path": "",
+      "version": 12,
+      "source": "https://roadsteam.net/",
+      "icon": "",
+      "description": "Đọc truyện trên trang roadteam",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
